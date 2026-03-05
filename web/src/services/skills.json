@@ -183,5 +183,10 @@
         "name": "rust-pro",
         "description": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.",
         "category": "Backend & API"
+    },
+    {
+        "name": "figmatocode",
+        "description": "Translates Figma designs into pixel-perfect, production-ready code. Covers Figma MCP setup, node inspection, layout translation, asset extraction, and iterative visual verification.",
+        "category": "Frontend & UI"
     }
 ]

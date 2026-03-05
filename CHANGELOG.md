@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
+## [2.0.3] - 2026-03-05
+- **New Skills**:
+    - `figmatocode` - Translates Figma designs into pixel-perfect, production-ready code
+
+
 ## [2.0.2] - 2026-02-04
 - **New Skills**:
     - `rust-pro` - Master Rust 1.75+ 
